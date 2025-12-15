@@ -1,5 +1,5 @@
 # Non-rigid Fiber Registration Pipeline
-This module implements a pipeline for fiber channel registration and signal extraction
+This repository contains a pipeline for fiber channel registration and signal extraction
 under non-rigid motion conditions.
 
 ## Pipeline Overview
