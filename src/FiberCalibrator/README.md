@@ -1,5 +1,5 @@
 # FiberCalibrator
-##for Automatic Fiber Localization and Calibration
+## for Automatic Fiber Localization and Calibration
 
 This folder contains a MATLAB-based pipeline for automatic fiber
 localization and calibration in fiber-array microscopy experiments.
