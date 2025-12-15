@@ -9,8 +9,9 @@ ROI confirmation, and multi-stage calibration, producing calibrated
 fiber positions and summary outputs.
 
 ## Demo Data
-The folders named `36-1-*` contain example input data and intermediate
-results for a single demo run.
+The `demo_data/` folder contains a minimal example of raw input data
+used to demonstrate the pipeline. Only raw inputs are tracked; all
+intermediate and output files are generated during execution.
 
 ## Main Scripts
 - `main_processing.m`: entry point of the pipeline
