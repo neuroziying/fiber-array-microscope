@@ -1,4 +1,4 @@
-# Non-rigid Fiber Registration Pipeline
+# Bi's lab/ Non-rigid Fiber Registration Pipeline
 This repository contains a pipeline for fiber channel registration and signal extraction
 under non-rigid motion conditions.
 
