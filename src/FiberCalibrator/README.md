@@ -1,4 +1,4 @@
-# FiberCalibrator
+# Bi's lab/ FiberCalibrator
 ## for Automatic Fiber Localization and Calibration
 
 This folder contains a MATLAB-based pipeline for automatic fiber
